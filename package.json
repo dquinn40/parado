@@ -1,0 +1,23 @@
+{
+  "name": "parado",
+  "version": "0.1.0",
+  "description": "Lets see where this goes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dquinn40/parado.git"
+  },
+  "author": "Dan Quinn <dquinn40@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dquinn40/parado/issues"
+  },
+  "homepage": "https://github.com/dquinn40/parado",
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  }
+}
